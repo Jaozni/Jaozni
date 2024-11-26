@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, sou Jão!
 
-<!--
-**Jaozni/Jaozni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/SEU-USERNAME" alt="foto de perfil" width="150" height="150" style="border-radius:50%;">
 
-Here are some ideas to get you started:
+## 📝 Sobre mim
+🎓 **Profissão:** Estudante De T.I  
+💻 **Áreas de Interesse:** Desenvolvimento Web, Inteligência Artificial e Cloud Computing  
+📍 **Localização:** Recife, PE]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia. Sempre em busca de aprender algo novo e de compartilhar meu conhecimento com a comunidade.
+
+---
+
+## 🌐 Contatos
+- 📧 E-mail: (jp3480540@gmail.com)
+- 💼 LinkedIn: (https://www.linkedin.com/in/joao-pedro-8340b033b/)
+
+
+---
+
+## 🚀 Habilidades
+- **Linguagens:** - Python  
+
