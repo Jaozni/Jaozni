@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/SEU-USERNAME" alt="foto de perfil" width="150" height="150" style="border-radius:50%;">
 
 ## 📝 Sobre mim
-🎓 **Profissão:** Estudante De T.I  
+🎓 **Profissão:** Estudante De Ciência da Computação 
 💻 **Áreas de Interesse:** Desenvolvimento Web, Inteligência Artificial e Cloud Computing  
 📍 **Localização:** Recife, PE]  
 
