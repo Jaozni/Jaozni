@@ -13,11 +13,11 @@ Sou apaixonado por tecnologia. Sempre em busca de aprender algo novo e de compar
 
 ## 🌐 Contatos
 - 📧 E-mail: (jp3480540@gmail.com)
-- 💼 LinkedIn: (https://www.linkedin.com/in/joao-pedro-8340b033b/)
+- 💼 LinkedIn: ()
 
 
 ---
 
 ## 🚀 Habilidades
 - **Linguagens:** - Python  
-
+-  HTML
