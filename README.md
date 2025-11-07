@@ -31,9 +31,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Certificate in Python by Santander Academy](https://file.notion.so/f/f/1dc8515f-fe0c-818b-b776-000374dc2bcb/08d95b45-601d-4079-a2f6-710ad5fbc0cf/822_jp3480540gmail.com.pdf?table=block&id=2698515f-fe0c-801f-8879-cd983bab9b2b&spaceId=1dc8515f-fe0c-818b-b776-000374dc2bcb&expirationTimestamp=1762473600000&signature=ctwW_xAkLXlWPs3qPfkDsEnz9_aQcsTPT7THXo-q8sY&downloadName=822_jp3480540%40gmail.com.pdf)
-- [Certificate in Design for Non-Designers](https://file.notion.so/f/f/1dc8515f-fe0c-818b-b776-000374dc2bcb/a80f5846-318b-4c79-8266-f8dd6670d09d/Joo_Pedro_Mota_Carvalho_-_Design_para_quem_no__designer_7_Edio.pdf?table=block&id=2a28515f-fe0c-8024-9f5f-e6d7bedf1799&spaceId=1dc8515f-fe0c-818b-b776-000374dc2bcb&expirationTimestamp=1762473600000&signature=YzRa8TVfb_pJPerFQJQh78IdiaLVjbUekMIjxdPaMZk&downloadName=Jo%C3%A3o+Pedro+Mota+Carvalho+-+Design+para+quem+n%C3%A3o+%C3%A9+designer+%5B7%C2%AA+Edi%C3%A7%C3%A3o%5D.pdf)
-- [Certificate in Psychology Applied to UX](https://file.notion.so/f/f/1dc8515f-fe0c-818b-b776-000374dc2bcb/179cabe4-48a8-41d6-a89c-c70d20f3391b/Joo_Pedro_Mota_Carvalho_-_Psicologia_Aplicada_a_UX.pdf?table=block&id=2a28515f-fe0c-80c2-b9cf-f5477fb2e061&spaceId=1dc8515f-fe0c-818b-b776-000374dc2bcb&expirationTimestamp=1762473600000&signature=bWnoXljO7Bi5vLWja9qpbcGBalR-U3ZbY8zpnv5V31c&downloadName=Jo%C3%A3o+Pedro+Mota+Carvalho+-+Psicologia+Aplicada+a+UX.pdf)
+- [Certificate in Python by Santander Academy](https://drive.google.com/file/d/1b0ukBrISjnLuz8XQLbY92X8khsKbUXey/view?usp=drive_link)
+- [Certificate in Design for Non-Designers](https://drive.google.com/file/d/1ZRZ_y6MLa_J5PruN4O0nWrDr8vf6ylWH/view?usp=drive_link)
+- [Certificate in Psychology Applied to UX](https://drive.google.com/file/d/17_DwdP2ZBpORZiyFnqpLXB6OgoG_pusb/view?usp=drive_link)
 
 
 <!-- GIF -->
