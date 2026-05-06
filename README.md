@@ -31,7 +31,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Certificate in Python by Santander Academy](https://drive.google.com/file/d/1b0ukBrISjnLuz8XQLbY92X8khsKbUXey/view?usp=drive_link)
+- [Certificate in Python by Santander Academy](https://drive.google.com/file/d/1b0ukBrISjnLuz8XQLbY92X8khsKbUXey/view?usp=sharing)
 - [Certificate in Design for Non-Designers](https://drive.google.com/file/d/1ZRZ_y6MLa_J5PruN4O0nWrDr8vf6ylWH/view?usp=drive_link)
 - [Certificate in Psychology Applied to UX](https://drive.google.com/file/d/17_DwdP2ZBpORZiyFnqpLXB6OgoG_pusb/view?usp=drive_link)
 
