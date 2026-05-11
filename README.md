@@ -11,7 +11,7 @@
 
   - 🌱 I’m currently studying Systems Analysis and Development 
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and AWS.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and backend development.
 </p>
 
 <!-- Dropdown -->
